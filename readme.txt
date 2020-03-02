@@ -1,0 +1,1 @@
+This is me working through the Django first webpage tutorial at: https://docs.djangoproject.com/en/3.0/intro/tutorial01/
